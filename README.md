@@ -35,3 +35,8 @@ Bluetooth dongle.
 
 ## Issues or Bug reporting
 Make an issue if you find a bug or a problem specifically for this hardware. Also if you found the solution, pull requests are welcome!
+
+## Credits
+- [acidanthera](https://github.com/acidanthera)
+- [vit9696](https://github.com/vit9696)
+- [n-d-k](https://github.com/n-d-k)
