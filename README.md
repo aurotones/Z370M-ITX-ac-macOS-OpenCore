@@ -5,6 +5,9 @@ A working OpenCore configuration for ASRock Z370M-ITX/ac
 **THIS CONFIGURATION NOT FULLY TESTED SO USE AT YOUR OWN RISK!**<br>
 Get updates through your email by clicking the watch button!
 
+## Configuration change logs
+See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CHANGELOG.md
+
 ## macOS version
 `10.15.4 (19E287)`
 
