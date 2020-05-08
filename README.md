@@ -2,7 +2,8 @@
 A working OpenCore configuration for ASRock Z370M-ITX/ac
 <br>
 <br>
-**THIS CONFIGURATION NOT FULLY TESTED SO USE AT YOUR OWN RISK!**
+**THIS CONFIGURATION NOT FULLY TESTED SO USE AT YOUR OWN RISK!**<br>
+Get updates through your email by clicking the watch button!
 
 ## macOS version
 `10.15.4 (19E287)`
