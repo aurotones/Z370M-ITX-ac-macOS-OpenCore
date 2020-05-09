@@ -3,7 +3,7 @@ A working OpenCore configuration for ASRock Z370M-ITX/ac
 <br>
 Get updates through your email by clicking the watch button!
 
-<img src="./neofetch.png" width="600">
+<img src="./aboutmymac.png" width="600">
 
 ## Configuration change logs
 See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CHANGELOG.md
