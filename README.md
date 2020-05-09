@@ -1,7 +1,5 @@
 # ASRock Z370M-ITX/ac macOS Catalina
 A working OpenCore configuration for ASRock Z370M-ITX/ac
-<br>
-Get updates through your email by clicking the watch button!
 
 <img src="./aboutmymac.png" width="600">
 
