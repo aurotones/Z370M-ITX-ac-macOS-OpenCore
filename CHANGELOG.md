@@ -5,7 +5,7 @@ Configuration Changelog
 - Boot chime
 
 #### 05-09-2020
-- OpenCore 0.5.9 Dev Build
+- OpenCore 0.5.8
 - Remove NdkBootPicker and use OpenCanopy instead
 - Updated kexts
 

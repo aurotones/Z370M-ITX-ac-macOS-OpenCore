@@ -549,7 +549,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>3</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -820,6 +820,19 @@
 			<true/>
 			<key>UnblockFsConnect</key>
 			<false/>
+		</dict>
+		<key>APFS</key>
+		<dict>
+			<key>EnableJumpstart</key>
+			<true/>
+			<key>HideVerbose</key>
+			<true/>
+			<key>JumpstartHotPlug</key>
+			<false/>
+			<key>MinDate</key>
+			<integer>0</integer>
+			<key>MinVersion</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 </dict>

@@ -20,7 +20,7 @@ See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CH
 
 ## Note
 * As a personal preference, this configuration will boot into macOS immediately!<br>
-  If you want to choose which disk you want to boot as! Press Option(Alt) key to show boot selector
+  If you want to choose which disk you want to boot as! Press Option(Alt) key to show boot selector, alternatively you can edit the configuration file and turn `Misc > Boot > ShowPicker` to `YES/True`
 
 ## Post-install
 * SmUUID and Serial Number generation for iMessage. Search the forums!<br>
