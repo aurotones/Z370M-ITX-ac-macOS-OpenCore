@@ -1,8 +1,6 @@
 # ASRock Z370M-ITX/ac macOS Catalina
 A working OpenCore configuration for ASRock Z370M-ITX/ac
 <br>
-<br>
-**THIS CONFIGURATION NOT FULLY TESTED SO USE AT YOUR OWN RISK!**<br>
 Get updates through your email by clicking the watch button!
 
 ## Configuration change logs
@@ -21,7 +19,8 @@ See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CH
 * Wifi + BT: BCM94360CS2 with adapter
 
 ## Post-install
-* SmUUID and Serial Number generation for iMessage. Search the forums!
+* SmUUID and Serial Number generation for iMessage. Search the forums!<br>
+Use [ProperTree](https://github.com/corpnewt/ProperTree) to edit plist files! Softwares such as OpenCore Configurator corrupts the file!
 
 ## Optional
 * Turn iGPU dual monitor on in BIOS to use Sidecar with AMD GPU or any other compatible external GPU
@@ -43,4 +42,3 @@ Make an issue if you find a bug or a problem specifically for this hardware. Als
 ## Credits
 - [acidanthera](https://github.com/acidanthera)
 - [vit9696](https://github.com/vit9696)
-- [n-d-k](https://github.com/n-d-k)
