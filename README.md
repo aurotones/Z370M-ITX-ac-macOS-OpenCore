@@ -19,7 +19,8 @@ See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CH
 * Wifi + BT: BCM94360CS2 with adapter
 
 ## Note
-* As a personal preference, this configuration will boot into macOS immediately!<br>
+* You can choose default boot by pressing `Ctrl + Enter` on the disk so next time when it boots it will be automatically selected.
+* As a personal preference, this configuration will boot into macOS immediately if it remembers default boot!<br>
   If you want to choose which disk you want to boot as! Press Option(Alt) key to show boot selector, alternatively you can edit the configuration file and turn `Misc > Boot > ShowPicker` to `YES/True`
 
 ## Post-install
