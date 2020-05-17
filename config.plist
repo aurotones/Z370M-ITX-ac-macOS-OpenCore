@@ -192,7 +192,9 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwCSPg==</data>
+				<data>BwCbPg==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Block</key>
@@ -618,7 +620,7 @@
 				<key>SystemAudioVolume</key>
 				<data>cA==</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=99 -disablegfxfirmware</string>
+				<string>debug=0x100 keepsyms=1 alcid=99 -disablegfxfirmware darkwake=0 dart=0 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -723,7 +725,6 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>ApfsDriverLoader.efi</string>
 			<string>AudioDxe.efi</string>
 			<string>HfsPlus.efi</string>
 			<string>OpenCanopy.efi</string>
