@@ -1,13 +1,14 @@
 # ASRock Z370M-ITX/ac macOS Catalina
 A working OpenCore configuration for ASRock Z370M-ITX/ac
-
-<img src="./aboutmymac.png" width="600">
+<p align="center">
+  <img src="./aboutmymac.png" width="500">
+</p>
 
 ## Configuration change logs
 See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CHANGELOG.md
 
 ## macOS version
-`10.15.4 (19E287)`
+`10.15.5 (19F96)`
 
 ## System Specs
 * Motherboard: ASRock Z370M-ITX/ac
