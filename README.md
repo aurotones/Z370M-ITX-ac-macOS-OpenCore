@@ -19,11 +19,6 @@ See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CH
 * PSU: Corsair SF 450W 80+ Gold Certified Fully-Modular SFX Power Supply
 * Wifi + BT: BCM94360CS2 with adapter
 
-## Note
-* You can choose default boot by pressing `Ctrl + Enter` on the disk so next time when it boots it will be automatically selected.
-* As a personal preference, this configuration will boot into macOS immediately if it remembers default boot!<br>
-  If you want to choose which disk you want to boot as! Press Option(Alt) key to show boot selector, alternatively you can edit the configuration file and turn `Misc > Boot > ShowPicker` to `YES/True`
-
 ## Post-install
 * SmUUID and Serial Number generation for iMessage. Search the forums!<br>
 Use [ProperTree](https://github.com/corpnewt/ProperTree) to edit plist files! Softwares such as OpenCore Configurator corrupts the file!
