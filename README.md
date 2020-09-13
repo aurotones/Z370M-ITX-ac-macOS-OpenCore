@@ -8,7 +8,7 @@ A working OpenCore configuration for ASRock Z370M-ITX/ac
 See here: https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore/blob/master/CHANGELOG.md
 
 ## macOS version
-`10.15.5 (19F96)`
+`10.15.6 (19G2021)`
 
 ## System Specs
 * Motherboard: ASRock Z370M-ITX/ac
