@@ -1,6 +1,11 @@
 Configuration Changelog
 ==================
 
+#### 09-14-2020
+- OpenCore 0.6.1
+- Updated kexts
+- macOS Big Sur may work now but not tested
+
 #### 06-08-2020
 - OpenCore 0.5.9
 
